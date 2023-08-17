@@ -1,0 +1,13 @@
+.nf1 {
+  background-color: #f50022;
+}
+
+.nf2 {
+  font-size: 64px;
+}
+
+@media only screen and (max-width: 992px) {
+  .nf2 {
+    font-size: 48px;
+  }
+}

@@ -1,0 +1,11 @@
+.bn1 {
+  font-size: 48px;
+}
+
+.bn2 {
+  cursor: pointer;
+}
+
+.bn2:hover {
+  text-decoration: underline;
+}

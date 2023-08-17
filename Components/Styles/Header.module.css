@@ -1,0 +1,33 @@
+.hs1 {
+  outline: none;
+}
+
+.hs2 {
+  outline: none;
+  box-shadow: none;
+}
+.hs2:focus {
+  outline: none;
+  box-shadow: none;
+}
+
+.hc1 {
+  background-color: white;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.searchIcon {
+  color: #f64549;
+  cursor: pointer;
+}
+
+.hc5 {
+  background-color: #f64549;
+  color: white;
+}
+
+.hc5:hover {
+  background-color: #f645489c;
+}

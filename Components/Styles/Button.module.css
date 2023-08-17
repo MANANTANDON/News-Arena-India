@@ -1,0 +1,24 @@
+.b1 {
+  border: none;
+  width: 130px;
+  height: 40px;
+  border-radius: 30px;
+  font-size: 14px;
+  background-color: white;
+  color: black;
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+}
+
+.b1:hover {
+  background-color: #f64549;
+  color: white;
+  cursor: pointer;
+}
+
+@media only screen and (max-width: 576px) {
+  .b1 {
+    width: 110px;
+    font-size: 12px;
+    height: 40px;
+  }
+}
